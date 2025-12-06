@@ -4422,6 +4422,7 @@ Cluster Manager
 
 ## Spark Execution Model
 
+
 ### Jobs, Stages, and Tasks
 
 1. **Job** - A complete computation triggered by an action
