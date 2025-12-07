@@ -6,6 +6,7 @@ DataFrames are the preferred API for structured data in Spark.
 
 ### From Files
 
+
 ```python
 # JSON
 df = spark.read.json("data.json")

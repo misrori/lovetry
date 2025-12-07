@@ -32,6 +32,7 @@ Manages resources across the cluster:
 
 ### Executors
 
+
 Worker processes that run tasks:
 
 ```
@@ -50,6 +51,7 @@ Cluster Manager
 ```
 
 ## Spark Execution Model
+
 
 ### Jobs, Stages, and Tasks
 
@@ -82,6 +84,7 @@ df.persist(StorageLevel.MEMORY_AND_DISK)
 ```
 
 ### Execution Memory
+
 
 Used for computation (joins, sorts, aggregations).
 
