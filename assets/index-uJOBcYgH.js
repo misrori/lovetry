@@ -4456,6 +4456,7 @@ df.persist(StorageLevel.MEMORY_AND_DISK)
 
 ### Execution Memory
 
+
 Used for computation (joins, sorts, aggregations).
 
 ## Configuration
@@ -4601,6 +4602,7 @@ DataFrames are the preferred API for structured data in Spark.
 ## Creating DataFrames
 
 ### From Files
+
 
 \`\`\`python
 # JSON
